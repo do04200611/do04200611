@@ -7,7 +7,7 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 - Android Studio
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-- C++
+- C++<br>
 - HTML5
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 - Java
