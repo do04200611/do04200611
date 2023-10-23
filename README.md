@@ -11,10 +11,11 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 - HTML5
+- <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 - Java
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
-- JavaScript
 - <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- JavaScript
+
 - <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
 - MySQL
 - <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
