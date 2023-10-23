@@ -20,4 +20,4 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 - MySQL
 - <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 - CSS3
-- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
