@@ -22,3 +22,5 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 
 - CSS3
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+-python
