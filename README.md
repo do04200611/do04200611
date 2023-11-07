@@ -3,7 +3,7 @@
 html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니다.<br>
 こんにちは初めまして、私は多数の校内大会に参加しており、夜遅くまで勉強をしています。このような私の真面目さで御社に貢献できると思います。 <br>
 
-제가 배우고 언어들입니다. <br>
+제가 배우고 있는 언어들입니다. <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
