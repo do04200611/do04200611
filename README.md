@@ -14,9 +14,7 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-# プロジェクト一覧
-
-このREADMEファイルは、2020年と2023年のプロジェクト一覧を示しています。
+私のプロジェクト
 
 ## 2020年
 
