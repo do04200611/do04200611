@@ -3,12 +3,6 @@
 
 <h3>My Youtube link  </h3>
 <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA"><img src="https://yt3.ggpht.com/z40k5ErajHeBwMNl2Jwuvy3Pyo2sjOIKd20h_csU7uxzzJEuvRP1Fw7r5daMn8KuovrzNMgT47E=s600-c-k-c0x00ffffff-no-rj-rp-mo" height="180"></a>
-<details>
-<summary>
-  토글 제목
-</summary>
-   토글 안 내용
-</details>
  My tech stack📚<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -21,7 +15,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 私のプロジェクト
-
+<details>
+<summary>
 ## 2020年
 
 | プロジェクト名 | 期間          | 説明                 |
@@ -40,3 +35,6 @@
 | システム分析および設計プロジェクト | 06月 ~ 07月 | 図書日程管理アプリ    |
 
 
+
+</summary>
+</details>
