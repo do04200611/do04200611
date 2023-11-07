@@ -13,3 +13,24 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+# プロジェクト一覧
+
+このREADMEファイルは、2020年と2023年のプロジェクト一覧を示しています。
+
+## 2020年
+
+| プロジェクト名 | 期間          | 説明                 |
+|--------------|---------------|--------------------|
+| 校内大会ウェブプロジェクト | 09月 ~ 10月 | 野球競技掲示板    |
+| javaプロジェクト            | 11月 ~ 12月 | チケット販売プログラム |
+| javascriptプロジェクト      | 11月 ~ 12月 | マイレージ登録機     |
+| databaseプロジェクト        | 11月 ~ 12月 | 野球日程管理プログラム |
+
+## 2023年
+
+| プロジェクト名 | 期間          | 説明                 |
+|--------------|---------------|--------------------|
+| Androidプロジェクト          | 06月 ~ 07月 | 映画紹介アプリ        |
+| ウェブプロジェクト           | 06月 ~ 07月 | インターネットショッピングモールサイト |
+| システム分析および設計プロジェクト | 06月 ~ 07月 | 図書日程管理アプリ    |
