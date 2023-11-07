@@ -14,7 +14,7 @@ My tech stack📚
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact"><br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <details>
 <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
 
