@@ -40,7 +40,8 @@ html, css, javascript 등의 분야의 언어를 배우고 있는 사람입니�
     <tr>
       <td>
         <a href="https://www.youtube.com/watch?v=vyUqO96Qk-s&t=11s" title="kako api map">
-          <img align="center" src="https://img.youtube.com/vi/TTLHd3IyErM/0.jpg" width="300" alt-text="Frontend Roadmap">
+          <img align="center" src="[![Frontend Roadmap](https://github.com/do04200611/do04200611/blob/assets/74278578/47232a0c-6161-46dc-bd39-cc7c8da4c476)](https://www.youtube.com/watch?v=vyUqO96Qk-s&t=11s)
+" width="300" alt-text="Frontend Roadmap">
         </a>
       </td>
       <td>
