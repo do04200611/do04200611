@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=私はキム・ガンヒョンです。どうぞよろしくおねがいします!&fontAlign=70&desc=Desc&descAlign=20&color=purple&textColor=yellow)
-
-
-
+https://capsule-render.vercel.app/api?
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+student+kimganghyeon)](https://git.io/typing-svg)
 
