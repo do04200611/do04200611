@@ -1,4 +1,4 @@
-<h1> Hi, I'm student kimganghyeon </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+student+kimganghyeon)](https://git.io/typing-svg)
 <H3>私はキム・ガンヒョンです。</H3>
 
 <h3>My Youtube link  </h3>
