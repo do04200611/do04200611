@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=私はキム・ガンヒョンです。どうぞよろしくおねがいします!&fontAlign=70&desc=Desc&descAlign=20&color=purple&textBg=88dd88)
+![header](https://capsule-render.vercel.app/api?text=私はキム・ガンヒョンです。どうぞよろしくおねがいします!&fontAlign=70&desc=Desc&descAlign=20&color=purple&textColor=yellow)
+
 
 
 
