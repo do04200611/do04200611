@@ -14,10 +14,9 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-私のプロジェクト
 <details>
 <summary>
- 2020年 ~ 2023年
+私のプロジェクト（ 2020年 ~ 2023年）
 </summary>
 | プロジェクト名 | 期間          | 説明                 |
 |--------------|---------------|--------------------|
