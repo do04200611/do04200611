@@ -17,9 +17,21 @@
  </a>
 </p>
 
+<details>
+ <summary> 📞 Contact 📞</summary>
+  <p align="center">
+ 📞82-010-3037-9096📞
+</p>
 
-
-
+<p align="center">
+  <a href="mailto:a01030379096@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
+  </a>
+  <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
+   <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
+ </a>
+</p>
+</details>
 
 
 
