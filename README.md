@@ -27,7 +27,6 @@ My tech stack📚
 ![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=00878F)
 
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
 
 
