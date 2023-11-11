@@ -11,7 +11,7 @@
 <p align="center">
  📞010-3037-9096📞
 </p>
-![gmail](https://img.shields.io/badge/gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=4335)
+![gmail]_(https://img.shields.io/badge/gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=4335)
 
 
 
