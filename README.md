@@ -31,7 +31,7 @@ My tech stack📚
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611&hide=contribs,prs&show_icons=true&theme=테마)
+
 
 <details>
 <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
