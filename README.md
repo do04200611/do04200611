@@ -5,9 +5,7 @@
 
 ## 📞 Contact 📞
 
-<center>
  [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:a01030379096@gmail.com)
-</center>
 
 <p align="center">
  📞010-3037-9096📞
