@@ -40,7 +40,6 @@
 
 <details>
   <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
-  <hr>
  
   ## 2020年
 
