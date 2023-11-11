@@ -5,10 +5,10 @@
 
 ## 📞 Contact 📞
 <p align="center">
- email: kimganghyeon6080@naver.com
+  ![gmail](https://img.shields.io/badge/gmail?style=flat-square&logo=gmail&logoColor=EA4335)kimganghyeon6080@naver.com
 </p>
 <p align="center">
- tel: 010-3037-9096
+ 📞010-3037-9096📞
 </p>
 
 
