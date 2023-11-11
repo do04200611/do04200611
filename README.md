@@ -5,13 +5,13 @@
 
 ## 📞 Contact 📞
 <p align="center">
-  ![gmail](https://img.shields.io/badge/gmail?style=flat-square&logo=gmail&logoColor=EA4335)
   kimganghyeon6080@naver.com
 </p>
+
 <p align="center">
  📞010-3037-9096📞
 </p>
-
+![Gmail](https://img.shields.io/badge/Gmail-A8B9CC?style=flat-square&logo=Gmail&logoColor=#EA4335)
 
 <h3 align="center">My Youtube link  </h3>
 <p align="center">
