@@ -38,11 +38,9 @@
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
 ![do04200611'widget](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do04200611&theme=nord_dark)
 
-
-## 私のプロジェクト（2020年 ~ 2023年）
 <details>
-  <summary></summary>
-
+  <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
+  <hr>
   ## 2020年
 
   | プロジェクト名           | 期間          | 説明                 |
