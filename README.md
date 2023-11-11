@@ -30,7 +30,6 @@
 
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
 
-##   私のプロジェクト（2020年 ~ 2023年）
 <details>
 <summary> 私のプロジェクト（2020年 ~ 2023年）</summary>
 
@@ -40,9 +39,9 @@
 |------------------------|---------------|--------------------|
 | 校内大会ウェブプロジェクト | 09月 ~ 10月 | 野球競技掲示板    |
 | javaプロジェクト          | 11月 ~ 12月 | チケット販売プログラム |
+| javascriptプロジェクト | 11月 ~ 12月 | マイレージ登録機    |
+| databaseプロジェクト          | 11月 ~ 12月 | 野球日程管理プログラム |
 
-| javascriptプロジェクト    | 11月 ~ 12月 | マイレージ登録機   |
-| databaseプロジェクト      | 11月 ~ 12月 | 野球日程管理プログラム |
 
  ### 2023年
 
