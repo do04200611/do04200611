@@ -26,8 +26,10 @@ My tech stack📚
 ![colab](https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange)
 ![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=00878F)
 
+<details>
+<summary>langauge graph（2020年 ~ 2023年）</summary>
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
-
+</details>details>
 
 
 <details>
