@@ -11,7 +11,8 @@
 <p align="center">
  📞010-3037-9096📞
 </p>
-![Gmail](https://img.shields.io/badge/Gmail-A8B9CC?style=flat-square&logo=Gmail&logoColor=#EA4335)
+[![My Skills](https://skills.thijs.gg/icons?i=gmail,figma&theme=light)](https://skills.thijs.gg)
+
 
 <h3 align="center">My Youtube link  </h3>
 <p align="center">
