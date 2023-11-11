@@ -14,7 +14,8 @@
 
 <h3>My Youtube link  </h3>
 <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA"><img src="https://yt3.ggpht.com/z40k5ErajHeBwMNl2Jwuvy3Pyo2sjOIKd20h_csU7uxzzJEuvRP1Fw7r5daMn8KuovrzNMgT47E=s600-c-k-c0x00ffffff-no-rj-rp-mo" height="180"></a><br>
-My tech stack📚
+
+## My tech stack📚
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
