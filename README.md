@@ -41,7 +41,7 @@
 
 ## 私のプロジェクト（2020年 ~ 2023年）
 <details>
-  <summary>push me</summary>
+  <summary></summary>
 
   ## 2020年
 
