@@ -36,7 +36,7 @@
 
 ## GitHub Profile Summary Cards
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
- ![do04200611's github activity graph](https://activity-graph.herokuapp.com/graph?username=do04200611&theme=monokai)
+![do04200611'widget](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do04200611&theme=nord_dark)
 
 <details>
 <summary> 私のプロジェクト（2020年 ~ 2023年）</summary>
