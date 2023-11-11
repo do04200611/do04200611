@@ -24,6 +24,7 @@ My tech stack📚
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![colab](https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange)
+![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=#00878F)
 
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact)<br>
 
