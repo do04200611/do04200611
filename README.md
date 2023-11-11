@@ -26,8 +26,6 @@ My tech stack📚
 
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact)<br>
 
-![3d](./profile-3d-contrib/profile-green-animate.svg)
-
 <details>
 <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
 
