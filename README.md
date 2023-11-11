@@ -11,7 +11,6 @@
 <p align="center">
  📞010-3037-9096📞
 </p>
-![gmail](https://img.shields.io/badge/gmail-1572B6?style=for-the-badge&logo=gmail&logoColor=#EA4335)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:a01030379096@gmail.com)
 
