@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=mail.ru" alt="Gmail">
+  <a href="mailto:a01030379096@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
   </a>
 </p>
 
