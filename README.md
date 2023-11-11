@@ -28,7 +28,7 @@ My tech stack📚
 
 ![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
 
 
 
