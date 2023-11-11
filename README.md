@@ -39,8 +39,8 @@
 ![do04200611'widget](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do04200611&theme=nord_dark)
 
 <details>
-  <hr>
   <summary>私のプロジェクト（2020年 ~ 2023年）</summary>
+  <hr>
   ## 2020年
 
   | プロジェクト名           | 期間          | 説明                 |
