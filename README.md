@@ -11,7 +11,8 @@
 <p align="center">
  📞010-3037-9096📞
 </p>
-![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)(mailto:your.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a01030379096@gmail.com)
+
 
 <h3 align="center">My Youtube link  </h3>
 <p align="center">
