@@ -31,7 +31,7 @@
 ![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=00878F)
 
 ## GitHub Profile Summary Cards
-![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611)
+![widget](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&layout=compact) 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611)](https://github.com/사용자명/github-readme-stats)
 ![do04200611'widget](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do04200611&theme=nord_dark)
 
