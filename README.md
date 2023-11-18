@@ -6,11 +6,11 @@
 <p align="center">
  📞82-010-3037-9096📞<br>
   <a href="mailto:a01030379096@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail"><br>
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail" alt="Gmail">
   </a>
   <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
- </a>
+ </a><br>
   |ポートフォリオ |作る期間          | 説明                 |
   |------------------------|---------------|--------------------|
   | <a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit"><img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>| 11月| ウェブバージョン|
