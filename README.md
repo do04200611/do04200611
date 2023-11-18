@@ -57,4 +57,4 @@
   | システム分析および設計プロジェクト | 06月 ~ 07月 | 図書日程管理アプリ          |
 
 </details>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=red&height=150&text=Thank%20you%20for%20watching.)
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=welcome%2&fontSize=50&desc=kimganghyeon's%20Github%20profile)
