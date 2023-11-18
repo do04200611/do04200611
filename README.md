@@ -11,15 +11,13 @@
   <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
  </a>
- <br>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/do04200611?tab=repositories)
  
   | ポートフォリオ           |  作る期間     |            説明  |
   |------------------------|---------------|----------------------------------------------|
   |<a href="https://kimganghyeon.my.canva.site/kimganghyeon"><img       src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>|11月|ウェブバージョン|
   |<a href="https://www.canva.com/design/DAFzY5opUiA/Ge33dSKE16cErBaDJDp-BA/edit"><img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva"></a>| 11月|<img src="https://img.shields.io/badge/canva-purple?style=for-the-badge&logo=canva" alt="canva">バージョン|
 </p>
-
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/do04200611?tab=repositories)
 ## My tech stack📚
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
