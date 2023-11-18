@@ -58,3 +58,4 @@
 
 </details>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Thank%20you%20for%20watching)
+[![Thank you](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Thank%20you%20for%20watching)](https://github.com/kimganghyeon)
