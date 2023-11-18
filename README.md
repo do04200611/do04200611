@@ -57,4 +57,4 @@
   | システム分析および設計プロジェクト | 06月 ~ 07月 | 図書日程管理アプリ          |
 
 </details>
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=Thank you for watching.&fontSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=10&section=footer&text=Thank you for watching.&fontSize=10" />
