@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/channel/UC484ZJMavtoPOI4ey-HFdCA">
    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube"   alt="YouTube">
  </a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/do04200611?tab=repositories)
  <br>
  
   | ポートフォリオ           |  作る期間     |            説明  |
