@@ -37,9 +37,7 @@
 
 ![do04200611'widget](https://raw.githubusercontent.com/do04200611/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=do04200611" />
-</a>
+![do04200611'widget](https://github-readme-stats.vercel.app/api?username=do04200611&show_icons=true&theme=radical)
 
 ![do04200611'widget](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=do04200611&theme=nord_dark)
 
