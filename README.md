@@ -57,6 +57,8 @@
   | Androidプロジェクト          | 06月 ~ 07月 | 映画紹介アプリ                |
   | ウェブプロジェクト             | 06月 ~ 07月 | インターネットショッピングモールサイト |
   | システム分析および設計プロジェクト | 06月 ~ 07月 | 図書日程管理アプリ          |
-
 </details>
+# coding report
+https://kim-kang-hyun.tistory.com/
+
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=350&text=Thank%20you%20for%20watching.&section=footer" />
