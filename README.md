@@ -35,7 +35,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611&show_icons=true&theme=transparent)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={do04200611}&theme={MyCodePercentage}&exclude={java,html,css,javascript}
+![do04200611'widget](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=do04200611&theme=MyCodePercentage&exclude=java,html,css,javascript)
 
 
 
