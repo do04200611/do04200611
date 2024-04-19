@@ -32,6 +32,7 @@
 ![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=00878F)
 
 # GitHub Profile Summary Cards
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimganghyeon6080)](https://solved.ac/kimganghyeon6080/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do04200611&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do04200611&hide_progress=true)
@@ -65,6 +66,4 @@ https://kim-kang-hyun.tistory.com/
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=350&text=Thank%20you%20for%20watching.&section=footer" />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimganghyeon6080)](https://solved.ac/kimganghyeon6080/)
 
