@@ -67,4 +67,5 @@ https://kim-kang-hyun.tistory.com/
 <img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=350&text=Thank%20you%20for%20watching.&section=footer" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/kimganghyeon6080/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac//)
 
