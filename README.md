@@ -30,6 +30,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![colab](https://img.shields.io/badge/googlecolab-1572B6?style=for-the-badge&logo=googlecolab&logoColor=orange)
 ![arduino](https://img.shields.io/badge/arduino-1572B6?style=for-the-badge&logo=arduino&logoColor=00878F)
+![django](https://img.shields.io/badge/django-3776AB?style=for-the-badge&logo=django&logoColor=#092E20)
+
 
 # GitHub Profile Summary Cards
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimganghyeon6080)](https://solved.ac/kimganghyeon6080/)
